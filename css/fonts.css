@@ -1,0 +1,98 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+	url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "RobotoLight"; */
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/RobotoLight/RobotoLight.eot");
+	src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoLight/RobotoLight.woff") format("woff"),
+	url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "RobotoMedium"; */
+@font-face {
+	font-family: "RobotoMedium";
+	src: url("../fonts/RobotoMedium/RobotoMedium.eot");
+	src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"),
+	url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "RobotoBold"; */
+@font-face {
+	font-family: "RobotoBold";
+	src: url("../fonts/RobotoBold/RobotoBold.eot");
+	src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoBold/RobotoBold.woff") format("woff"),
+	url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat/Montserrat.eot");
+	src: url("../fonts/Montserrat/Montserrat.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Montserrat/Montserrat.woff") format("woff"),
+	url("../fonts/Montserrat/Montserrat.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Nunito Sans Regular";
+	src: url("../fonts/Nunito Sans Regular/Nunito Sans Regular.eot");
+	src: url("../fonts/Nunito Sans Regulart/Nunito Sans Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Nunito Sans Regular/Nunito Sans Regular.woff") format("woff"),
+	url("../fonts/Nunito Sans Regular/Nunito Sans Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+			font-family: "TimesNewRomanRegular";
+			src: url("../fonts/TimesNewRomanRegular/TimesNewRomanRegular.eot");
+			src: url("../fonts/TimesNewRomanRegular/TimesNewRomanRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/TimesNewRomanRegular/TimesNewRomanRegular.woff") format("woff"),
+			url("../fonts/TimesNewRomanRegular/TimesNewRomanRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "TimesNewRomanBold";
+			src: url("../fonts/TimesNewRomanBold/TimesNewRomanBold.eot");
+			src: url("../fonts/TimesNewRomanBold/TimesNewRomanBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/TimesNewRomanBold/TimesNewRomanBold.woff") format("woff"),
+			url("../fonts/TimesNewRomanBold/TimesNewRomanBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "TimesNewRomanItalic";
+			src: url("../fonts/TimesNewRomanItalic/TimesNewRomanItalic.eot");
+			src: url("../fonts/TimesNewRomanItalic/TimesNewRomanItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/TimesNewRomanItalic/TimesNewRomanItalic.woff") format("woff"),
+			url("../fonts/TimesNewRomanItalic/TimesNewRomanItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "TimesNewRomanBoldItalic";
+			src: url("../fonts/TimesNewRomanBoldItalic/TimesNewRomanBoldItalic.eot");
+			src: url("../fonts/TimesNewRomanBoldItalic/TimesNewRomanBoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/TimesNewRomanBoldItalic/TimesNewRomanBoldItalic.woff") format("woff"),
+			url("../fonts/TimesNewRomanBoldItalic/TimesNewRomanBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
